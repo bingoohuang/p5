@@ -71,4 +71,4 @@ func draw() {
 }
 ```
 
-![img-hello](https://github.com/go-p5/p5/raw/main/example/hello/out.png)
+![img-hello](https://github.com/bingoohuang/p5/raw/main/example/hello/out.png)
